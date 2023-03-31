@@ -83,8 +83,8 @@ This is the main loop function that is called repeatedly while the device is run
 
 ## REFERENCES:
 
-- WIZnet W5100S-EVB-Pico: https://www.wiznet.io/product-item/w5100s-evb-pico/
-- MQTT Protocol: https://mqtt.org/
-- PubSubClient Library: https://pubsubclient.knolleary.net/
-- Arduino Ethernet Library: https://www.arduino.cc/en/Reference/Ethernet
-- Arduino IDE: https://www.arduino.cc/en/software/
+- https://www.wiznet.io/product-item/w5100s-evb-pico/
+- https://mqtt.org/
+- https://pubsubclient.knolleary.net/
+- https://www.arduino.cc/en/Reference/Ethernet
+- https://www.arduino.cc/en/software/
